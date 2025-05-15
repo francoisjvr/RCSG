@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x78569eBB153AaEC55601efE4b54d0e65014c4Ea8",
+  "SCAN_LINK": "https://shapescan.xyz/token/0x78569eBB153AaEC55601efE4b54d0e65014c4Ea8",
+  "NETWORK": {
+    "NAME": "SHAPE NETWORK",
+    "SYMBOL": "ETH",
+    "ID": 360
+  },
+  "NFT_NAME": "Right Click Shape Guy",
+  "SYMBOL": "RCSG",
+  "MAX_SUPPLY": 1024,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 280000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rightclickshapeguy",
+  "SHOW_BACKGROUND": false
+  
+}
